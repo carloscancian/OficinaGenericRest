@@ -1,0 +1,7 @@
+com\genericrest\dao\ControlePecaTest.class
+com\genericrest\dao\connection\ConnectionTest.class
+com\genericrest\dao\ClienteTest.class
+com\genericrest\dao\ManutencaoTest.class
+com\genericrest\dao\VeiculoTest.class
+com\genericrest\dao\PecasManutencaoTest.class
+com\genericrest\util\CriptographyTest.class
